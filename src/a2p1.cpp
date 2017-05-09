@@ -12,7 +12,7 @@
 
 using namespace std;
 
-const static string S_PROCESSED = "PROCESSED";
+const static string S_PROCESSED = "PROCESSED11111";
 const static string S_ON_LOAN = "ON_LOAN";
 const static string S_AVAILABLE = "AVAILABLE";
 const static string S_OVERDUE = "OVERDUE";
